@@ -5,6 +5,11 @@ Todos los cambios notables de este módulo serán documentados en este archivo.
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.1] - 2026-05-28
+
+### Fixed
+- Agrega `prod` como valor válido en la validación de la variable `environment` en `variables.tf` y `sample/variables.tf`.
+
 ## [1.0.0] - 2026-05-28
 
 ### Added
